@@ -2,7 +2,7 @@
 Profit tells you if you made money. ROIC tells you if you are using your resources efficiently, and how much value you are creating compared to others in your industry.
 # ROIC Business Diagnostic Tool
 
-Live App:
+Try the Live App:
 (https://business-strength-calculator.base44.app/)
 
 ---
@@ -42,7 +42,7 @@ This tool provides a simple, structured way to:
 - Clear ROIC calculation logic
 - Instant interpretation
 - Strategic guidance based on result
-- No signup required
+- Instant summary sent directly to email (no signup required)
 
 ---
 
@@ -50,8 +50,7 @@ This tool provides a simple, structured way to:
 
 - SME founders
 - Operators evaluating growth
-- Business owners making capital allocation decisions
-- Early-stage founders testing capital efficiency
+- Small Business owners making capital allocation decisions
 
 ---
 
@@ -83,7 +82,7 @@ Positioned as a free diagnostic to:
 
 ## Roadmap
 
-- Industry benchmark comparison
-- Downloadable business health report
-- Scenario simulation
+- Industry benchmark comparison (to test competitive advantage against average industry ROIC)
+- Enhance business health report (Adding the industry benchmar comparison, the user gets more insights)
+- Consultant general advice (based on benchmarking, what would a consultant suggest)
 - Growth recommendation engine
