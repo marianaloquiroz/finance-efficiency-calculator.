@@ -1,9 +1,9 @@
-# ROIC_BUSINESS_DIAGNOSTIC_TOOL
+# ROIC_BUSINESS_ADVANTAGE_CHECK_TOOL
 Profit tells you if you made money. ROIC tells you if you are using your resources efficiently, and how much value you are creating compared to others in your industry.
 
-# ROIC Business Diagnostic Tool
+# ROIC Business Advantage Chevk
 Try the Live App:
-(https://business-strength-calculator.base44.app/)
+https://business-advantage-check.base44.app
 
 ---
 
